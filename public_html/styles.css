@@ -1,0 +1,23 @@
+header    {
+    width: 100%;
+    font-family:sans-serif;
+    justify-content: center;  
+    display: flex;
+    background-color: #87CEEB; 
+}
+#encabezado{
+    color: white; 
+}
+
+body {
+    font-family: Arial, helvetica, sans-serif;
+}
+#footer{  
+    justify-content: center;  
+    color: white; 
+    display: flex;
+    background-color: #87CEEB;  
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+}
